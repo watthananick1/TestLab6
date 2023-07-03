@@ -1,0 +1,8 @@
+D:\Web\Test_itone\A2\A2\bin\Debug\A2.exe.config
+D:\Web\Test_itone\A2\A2\bin\Debug\A2.exe
+D:\Web\Test_itone\A2\A2\bin\Debug\A2.pdb
+D:\Web\Test_itone\A2\A2\obj\Debug\A2.csproj.AssemblyReference.cache
+D:\Web\Test_itone\A2\A2\obj\Debug\A2.csproj.SuggestedBindingRedirects.cache
+D:\Web\Test_itone\A2\A2\obj\Debug\A2.csproj.CoreCompileInputs.cache
+D:\Web\Test_itone\A2\A2\obj\Debug\A2.exe
+D:\Web\Test_itone\A2\A2\obj\Debug\A2.pdb

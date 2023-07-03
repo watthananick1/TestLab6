@@ -1,0 +1,8 @@
+D:\Web\Test_itone\BasicTest\BasicTest\bin\Debug\BasicTest.exe.config
+D:\Web\Test_itone\BasicTest\BasicTest\bin\Debug\BasicTest.exe
+D:\Web\Test_itone\BasicTest\BasicTest\bin\Debug\BasicTest.pdb
+D:\Web\Test_itone\BasicTest\BasicTest\obj\Debug\BasicTest.csproj.AssemblyReference.cache
+D:\Web\Test_itone\BasicTest\BasicTest\obj\Debug\BasicTest.csproj.SuggestedBindingRedirects.cache
+D:\Web\Test_itone\BasicTest\BasicTest\obj\Debug\BasicTest.csproj.CoreCompileInputs.cache
+D:\Web\Test_itone\BasicTest\BasicTest\obj\Debug\BasicTest.exe
+D:\Web\Test_itone\BasicTest\BasicTest\obj\Debug\BasicTest.pdb

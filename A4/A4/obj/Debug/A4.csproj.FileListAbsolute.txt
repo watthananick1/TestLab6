@@ -1,0 +1,8 @@
+D:\Web\Test_itone\A4\A4\bin\Debug\A4.exe.config
+D:\Web\Test_itone\A4\A4\bin\Debug\A4.exe
+D:\Web\Test_itone\A4\A4\bin\Debug\A4.pdb
+D:\Web\Test_itone\A4\A4\obj\Debug\A4.csproj.AssemblyReference.cache
+D:\Web\Test_itone\A4\A4\obj\Debug\A4.csproj.SuggestedBindingRedirects.cache
+D:\Web\Test_itone\A4\A4\obj\Debug\A4.csproj.CoreCompileInputs.cache
+D:\Web\Test_itone\A4\A4\obj\Debug\A4.exe
+D:\Web\Test_itone\A4\A4\obj\Debug\A4.pdb
